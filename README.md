@@ -39,3 +39,22 @@ This project also reflects practical use of AI tools to accelerate SQL developme
 - Add dashboard layer in Power BI or Tableau
 - Expand datasets for member eligibility and pharmacy analytics
 - Add Airflow orchestration for pipeline automation
+
+- ## Advanced Analytics
+
+This project includes advanced SQL techniques to simulate real-world analytics:
+
+- Window functions (RANK, running totals)
+- Cohort analysis for patient behavior tracking
+- Time-series analysis for claim trends
+
+These techniques are commonly used in business intelligence and data analysis roles to support decision-making and performance tracking.
+
+## Business Impact
+
+This project demonstrates how data can be used to:
+
+- Identify high-value patients and spending patterns
+- Track healthcare utilization trends over time
+- Analyze provider performance and specialization impact
+- Enable data-driven decision-making in healthcare operations
