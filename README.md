@@ -1,4 +1,6 @@
+
 # Healthcare Data Analytics
+End-to-end healthcare data analytics project showcasing SQL-based data modeling, transformations, and business insights with AI-assisted development.
 
 ## Overview
 This project demonstrates end-to-end healthcare data modeling and analytics using sample claims, patients, and providers data. It is designed to showcase SQL-based schema design, data transformations, and analytical querying aligned with real-world healthcare reporting use cases.
