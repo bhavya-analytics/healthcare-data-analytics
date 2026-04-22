@@ -59,3 +59,21 @@ This project demonstrates how healthcare data can be used to:
 - Track utilization trends over time
 - Analyze provider performance by specialty
 - Support reporting and operational decision-making
+
+## Key Metrics & Insights
+
+This project simulates real-world analytics by defining and analyzing key metrics:
+
+### Metrics
+- Total Claims (volume of transactions)
+- Total Revenue (sum of claim amounts)
+- Average Claim Amount
+- Patient-Level Spending
+- Provider Performance by Specialty
+
+### Insights
+- Cardiology shows the highest total revenue contribution
+- A small group of patients contributes disproportionately to total spending
+- Certain regions show higher average claim amounts, indicating cost variation
+
+These insights demonstrate how data can be used to drive decision-making in healthcare operations and analytics.
